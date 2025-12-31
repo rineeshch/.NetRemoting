@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RemotingClient1/RemotingClient1.csproj" Id="a017e93a-b124-425b-b9c7-7282107b5477" />
+  <Project Path="RemotingServer1/RemotingServer1.csproj" Id="1825d711-1cc7-48c3-9de4-4d006cf2423d" />
+  <Project Path="SharedLibrary1/SharedLibrary1.csproj" Id="c5ca6b19-be3c-4fe0-81a2-80a5c7370e04" />
+</Solution>

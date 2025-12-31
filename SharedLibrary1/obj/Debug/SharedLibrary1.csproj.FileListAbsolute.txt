@@ -1,0 +1,6 @@
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\bin\Debug\SharedLibrary1.dll
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\bin\Debug\SharedLibrary1.pdb
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\obj\Debug\SharedLibrary1.csproj.AssemblyReference.cache
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\obj\Debug\SharedLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\obj\Debug\SharedLibrary1.dll
+C:\Users\rineesh.ch\source\repos\RemotingDemo\SharedLibrary1\obj\Debug\SharedLibrary1.pdb

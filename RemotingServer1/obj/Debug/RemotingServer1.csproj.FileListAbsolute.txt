@@ -1,0 +1,10 @@
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\obj\Debug\RemotingServer1.csproj.AssemblyReference.cache
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\obj\Debug\RemotingServer1.csproj.CoreCompileInputs.cache
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\bin\Debug\RemotingServer1.exe.config
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\bin\Debug\RemotingServer1.exe
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\bin\Debug\RemotingServer1.pdb
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\bin\Debug\SharedLibrary1.dll
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\bin\Debug\SharedLibrary1.pdb
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\obj\Debug\Remoting.82D43F0D.Up2Date
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\obj\Debug\RemotingServer1.exe
+C:\Users\rineesh.ch\source\repos\RemotingDemo\RemotingServer1\obj\Debug\RemotingServer1.pdb

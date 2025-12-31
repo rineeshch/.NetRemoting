@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1825D711-1CC7-48C3-9DE4-4D006CF2423D}|RemotingServer1\\RemotingServer1.csproj|c:\\users\\rineesh.ch\\source\\repos\\remotingdemo\\remotingserver1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1825D711-1CC7-48C3-9DE4-4D006CF2423D}|RemotingServer1\\RemotingServer1.csproj|solutionrelative:remotingserver1\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CA6B19-BE3C-4FE0-81A2-80A5C7370E04}|SharedLibrary1\\SharedLibrary1.csproj|C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\sharedlibrary1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CA6B19-BE3C-4FE0-81A2-80A5C7370E04}|SharedLibrary1\\SharedLibrary1.csproj|solutionrelative:sharedlibrary1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A017E93A-B124-425B-B9C7-7282107B5477}|RemotingClient1\\RemotingClient1.csproj|C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\remotingclient1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A017E93A-B124-425B-B9C7-7282107B5477}|RemotingClient1\\RemotingClient1.csproj|solutionrelative:remotingclient1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\RemotingClient1\\Client.cs",
+              "RelativeDocumentMoniker": "RemotingClient1\\Client.cs",
+              "ToolTip": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\RemotingClient1\\Client.cs",
+              "RelativeToolTip": "RemotingClient1\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:12:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\SharedLibrary1\\Calculator.cs",
+              "RelativeDocumentMoniker": "SharedLibrary1\\Calculator.cs",
+              "ToolTip": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\SharedLibrary1\\Calculator.cs",
+              "RelativeToolTip": "SharedLibrary1\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:14:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\RemotingServer1\\Server.cs",
+              "RelativeDocumentMoniker": "RemotingServer1\\Server.cs",
+              "ToolTip": "C:\\Users\\rineesh.ch\\source\\repos\\RemotingDemo\\RemotingServer1\\Server.cs",
+              "RelativeToolTip": "RemotingServer1\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T04:13:52.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
