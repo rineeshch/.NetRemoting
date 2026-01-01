@@ -17,10 +17,9 @@ namespace RemotingClient1
                 "tcp://localhost:8080/CalculatorService"
             );
 
-            int result = calculator.Add(10, 20);
+            int result = calculator.Add(100, 20);
             Console.WriteLine("Result from server: " + result);
 
-            Console.ReadLine();
         }
     }
 }
